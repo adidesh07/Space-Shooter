@@ -1,2 +1,15 @@
-# Space Shooter
+## Space Shooter
+
+###### Created a Space shooter game in Pygame as a project for learning Python. This project is my first real implementation of OOPs in Python.
  
+Player can move using arrow keys and shoot lasers using space-bar.
+
+Added a feature where each on-screen button changes colours when mouse cursor is on it.
+
+Main Menu:
+
+![](Images/Menu.png)
+
+Game:
+
+![](Images/Game.png)
